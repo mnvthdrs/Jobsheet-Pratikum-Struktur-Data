@@ -1,4 +1,4 @@
-<img src="https://github.com/mnvthdrs/Jobsheet-Pratikum-Struktur-Data/blob/main/Assets/a2.png?raw=true">
+<img src="https://github.com/mnvthdrs/Jobsheet-Pratikum-Struktur-Data/blob/main/Assets/a2.png?raw=true" width="1000" height="260">
 
 
 # Pratikum-Struktur-Data
